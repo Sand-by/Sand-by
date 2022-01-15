@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sand-by
 - 👀 I’m interested in 3D Rendering
-- 🌱 I’m currently learning C++,C#,GLSL,JS
+- 🌱 I’m currently learning C#,GLSL,JS
 - 📫 How to reach me https://vk.com/silverstomp
 
 <!---
